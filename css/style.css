@@ -1,0 +1,129 @@
+body{
+   font-family: calibri, sans-serif; 
+    text-align: center;
+    font-size: 20px;
+}
+
+h3{
+    font-size: 28px;
+}
+
+.container{
+    
+}
+
+#max{
+    box-sizing: border-box;
+    width: 23%;
+    float: left;
+    border: 1px solid grey;
+    border-radius: 6px; 
+    height: 600px;
+    margin-top: 100px;
+    box-shadow: -4px -4px rgba(192, 192, 192, 0.7);
+}
+
+#max_header{
+    background: red;  
+    color: #fff;
+    padding: 10px;
+    margin: 0;
+}
+
+.small_words{
+    font-size: 12px;  
+}
+
+#red_button{
+    background: red;
+    display: inline-block;
+    color: #fff;
+    margin: 10px;
+    padding: 10px 50px 10px 50px;
+    border-radius: 30px;
+}
+
+#grow{
+    box-sizing: border-box;
+    width: 30%;
+    float: left;
+    border: 1px solid grey;  
+    border-radius: 6px;
+    height: 700px;
+    margin-top: 50px;
+    box-shadow: -4px -4px rgba(192, 192, 192, 0.7);
+}
+
+#grow_header{
+    background: green;
+    color: #fff;
+    padding: 10px;
+    margin: 0;
+}
+
+#green_button{
+    background: green;
+    display: inline-block;
+    color: #fff;
+    margin: 10px;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px;
+}
+
+#ramp{
+    box-sizing: border-box;
+    width: 23%;
+    float: left;
+    border: 1px solid grey; 
+    border-radius: 6px;
+    height: 600px;
+    margin-top: 100px;
+    box-shadow: -4px -4px rgba(192, 192, 192, 0.7);
+}
+
+#ramp_header{
+    background: skyblue;
+    color: #fff;
+    padding: 10px;
+    margin: 0;
+}
+
+#blue_button{
+    background: skyblue;
+    display: inline-block;
+    color: #fff;
+    margin: 10px;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px;
+}
+
+#pay{
+    box-sizing: border-box;
+    width: 23%;
+    float: left;
+    border: 1px solid grey; 
+    border-radius: 6px;
+    height: 600px;
+    margin-top: 100px;
+    box-shadow: -4px -4px rgba(192, 192, 192, 0.7);
+}
+
+#pay_header{
+    background: grey;
+    color: #fff;
+    padding: 10px;
+    margin: 0;
+}
+
+#grey_button{
+    background: grey;
+    display: inline-block;
+    color: #fff;
+    margin: 10px;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px;
+}
+
+.crossout{
+    text-decoration: line-through;
+}
